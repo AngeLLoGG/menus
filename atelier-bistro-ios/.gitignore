@@ -1,0 +1,16 @@
+# Proyecto generado por XcodeGen
+AtelierBistro.xcodeproj/
+
+# Ajustes de usuario de Xcode
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# Builds
+build/
+*.ipa
+*.dSYM.zip
+
+# macOS
+.DS_Store
